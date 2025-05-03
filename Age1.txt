@@ -1,0 +1,1 @@
+React Router is a standard library used for routing in React. It enables navigation between views of various components in a React Application, and it allows changing the browser URL and keeping UI in sync with the URL.
